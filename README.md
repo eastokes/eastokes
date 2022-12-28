@@ -22,7 +22,7 @@ I'm a Site Reliability / DevOps Engineer
 I've previously held roles as a full stack web developer in the age before git and modern frameworks, writing e-commerce websites in ASP.NET and PHP. I transitioned into "operations" work which I find more enjoyable, and now work extensively with (and apply software development practices to) Kubernetes, AWS, GCP, Terraform, Ansible, Linux.
 
 * 🌍  I'm based in Santa Cruz, California - full remote
-* 😄  My pronouns: he/they
+* 🥰  My pronouns: he/they
 * 📫  You can contact me at [emlynstokes@gmail.com](mailto:emlynstokes@gmail.com)
 * ⚡  My latest project was implementing a reverse proxy for customer domains with Istio, Cert Manager, LetsEncrypt, External Secrets, & Kyverno.
 * 🚀  I'm currently working on migrating AWS cloud infrastructure to GCP.
