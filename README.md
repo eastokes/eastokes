@@ -24,11 +24,11 @@ I've previously held roles as a full stack web developer in the age before git a
 * 🌍  I'm based in Santa Cruz, California - full remote
 * 🥰  My pronouns: he/they
 * 📫  You can contact me at [emlynstokes@gmail.com](mailto:emlynstokes@gmail.com)
-* ⚡  My latest project was implementing a reverse proxy for customer domains with Istio, Cert Manager, LetsEncrypt, External Secrets, & Kyverno.
+* ⚡  My latest project was implementing a reverse proxy for customer domains with Istio, Cert Manager, LetsEncrypt, External Secrets, & Kyverno. I also deployed an istio passthrough service to serve multiple external backends within an existing API.
 * 🚀  I'm currently working on migrating AWS cloud infrastructure to GCP.
 * 🌱  I upgraded my homelab to a 5 node K3s cluster (4x arm64, 1 amd64), gitops with ArgoCD, fronted with Tailscale & Cloudflare. 
 * 💻  I enjoy maintaining a productive shell environment with ZSH, Znap, and powerlevel10k in sync with [chezmoi](https://www.chezmoi.io/) between several WSL2 environments and a Macbook M1.
-* ✈️  I'm passionate about traveling, recent trips include Iceland, Mexico, Panama, Nicaragua, New Zealand, Australia, Fiji
+* ✈️  I'm passionate about traveling, recent trips include Switzerland, Mexico, Panama, Nicaragua, New Zealand, Australia, Fiji. I'm currenting living in Iceland for 6 months.
 
 ### Skills
 
